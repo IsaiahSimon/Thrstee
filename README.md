@@ -1,2 +1,2 @@
 # Thrstee
-This is a simple drink generator app using TheCocktailDB API.
+A drink generator web app with TheCocktailDB API integration.
